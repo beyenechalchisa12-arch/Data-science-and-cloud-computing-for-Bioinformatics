@@ -1,0 +1,24 @@
+Variable,Category,Frequency_Before,Frequency_After
+Sex,F,3,0
+Sex,FEMALE,1,0
+Sex,Female,3,0
+Sex,M,6,0
+Sex,Male,2,0
+Sex,female,0,7
+Sex,male,1,9
+Species,Homo Sapiens,1,0
+Species,Homo sapiens,14,0
+Species,homo sapiens,1,16
+Tissue,Heart,3,0
+Tissue,Kidney,4,0
+Tissue,LIVER,1,0
+Tissue,Liver,5,0
+Tissue,heart,1,4
+Tissue,kidney,1,5
+Tissue,liver,1,7
+Treatment,CTRL,1,0
+Treatment,Control,6,0
+Treatment,TRT,1,0
+Treatment,Treated,6,0
+Treatment,control,1,8
+Treatment,treated,1,8

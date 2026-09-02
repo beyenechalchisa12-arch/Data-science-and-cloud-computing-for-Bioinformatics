@@ -1,0 +1,9 @@
+Variable,Category,Frequency
+Species,homo sapiens,16
+Tissue,liver,7
+Tissue,kidney,5
+Tissue,heart,4
+Sex,male,9
+Sex,female,7
+Treatment,control,8
+Treatment,treated,8

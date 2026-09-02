@@ -1,0 +1,16 @@
+Sample_ID,Species,Tissue,Sex,Age,Treatment,GeneA,GeneB,GeneC
+S001,homo sapiens,liver,male,45.0,control,120,54.0,88.0
+S002,homo sapiens,liver,male,52.0,treated,135,61.0,92.0
+S003,homo sapiens,liver,female,38.0,treated,128,,85.0
+S004,homo sapiens,heart,female,41.0,control,95,48.0,72.0
+S005,homo sapiens,heart,female,,control,102,51.0,75.0
+S006,homo sapiens,kidney,male,50.0,treated,140,65.0,97.0
+S007,homo sapiens,kidney,male,47.0,treated,145,68.0,100.0
+S008,homo sapiens,kidney,female,44.0,control,98,49.0,70.0
+S009,homo sapiens,liver,female,39.0,treated,5000,60.0,90.0
+S010,homo sapiens,liver,male,43.0,control,115,55.0,
+S011,homo sapiens,heart,male,48.0,treated,130,59.0,89.0
+S012,homo sapiens,heart,female,46.0,control,105,52.0,77.0
+S013,homo sapiens,kidney,male,-5.0,treated,138,64.0,95.0
+S014,homo sapiens,kidney,female,42.0,control,100,50.0,74.0
+S015,homo sapiens,liver,male,49.0,treated,142,66.0,99.0
